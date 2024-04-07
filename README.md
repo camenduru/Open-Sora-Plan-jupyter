@@ -15,5 +15,18 @@
 ### 🧬 Code
 https://github.com/PKU-YuanGroup/Open-Sora-Plan
 
+### 🖼 Output v1.0.0
+
+https://github.com/camenduru/Open-Sora-Plan-jupyter/assets/54370274/28d0c673-2f25-4cb5-8b55-3a4bf237d6f3
+
+
+https://github.com/camenduru/Open-Sora-Plan-jupyter/assets/54370274/a9610976-fe62-408b-9f5e-cb8e9b572f49
+
+
+https://github.com/camenduru/Open-Sora-Plan-jupyter/assets/54370274/107afb46-ea99-40bc-ada0-90c76208bf26
+
+
+https://github.com/camenduru/Open-Sora-Plan-jupyter/assets/54370274/09489a2b-a145-4e79-a943-6776440aa443
+
 ### 🏢 Sponsor
 https://modelslab.com
