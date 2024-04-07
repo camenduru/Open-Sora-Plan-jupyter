@@ -10,7 +10,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/open-sora-plan-jupyter/blob/main/open_sora_plan_jupyter.ipynb) | open_sora_plan_jupyter (😭 Pro Colab ~42GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Open-Sora-Plan-jupyter/blob/main/Open_Sora_Plan_jupyter.ipynb) | Open_Sora_Plan_jupyter (😭 Pro Colab ~42GB VRAM)
 
 ### 🧬 Code
 https://github.com/PKU-YuanGroup/Open-Sora-Plan
