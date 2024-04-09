@@ -15,6 +15,9 @@
 ### 🧬 Code
 https://github.com/PKU-YuanGroup/Open-Sora-Plan
 
+### 📄 Paper
+https://pku-yuangroup.github.io/Open-Sora-Plan/
+
 ### 🖼 Output v1.0.0 65x512x512
 
 https://github.com/camenduru/Open-Sora-Plan-jupyter/assets/54370274/28d0c673-2f25-4cb5-8b55-3a4bf237d6f3
